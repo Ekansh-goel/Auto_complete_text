@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Auto_complete_text</string>
+    <string-array name="person">
+        <item>ram</item>
+        <item>rama</item>
+        <item>raman</item>
+        <item>ramesh</item>
+        <item>ramaneet</item>
+    </string-array>
+</resources>
